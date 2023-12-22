@@ -7,6 +7,12 @@
 [![Docker Hub](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/duluca/)
 [![Slides](https://img.shields.io/badge/slides-%23E4637C.svg?&style=for-the-badge&logo=slides&logoColor=white)](https://slides.com/doguhanuluca)
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=duluca) -->
+
+![GitHub User's stars](https://img.shields.io/github/stars/duluca)
+![GitHub followers](https://img.shields.io/github/followers/duluca)
+[![Visits Badge](https://badges.pufler.dev/visits/duluca/duluca)](https://duluca.github.io)
+
 <!-- [![Blog](https://img.shields.io/badge/blog-%233774E6.svg?&style=for-the-badge&logo=jekyll&logoColor=white)](https://expertlysimple.io)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@expertlysimple) 
 -->
@@ -17,8 +23,9 @@
 - 📫 How to reach me: DM me on [X](https://twitter.com/messages/28426207-3805104374?recipient_id=3805104374&text=Hi%23from%23GitHub) or [LinkedIn](https://www.linkedin.com/in/duluca/)
 - 👯 Consider submitting a PR for one of my repos below
 
-Check out my work:
-
+<details>
+<summary>Expand to view links to my publications and talks.</summary>
+  
 1. [Websites](https://duluca.github.io/#websites)
 2. [Publications](https://duluca.github.io/#publications)
 3. [Videos](https://duluca.github.io/#videos)
@@ -26,3 +33,4 @@ Check out my work:
 5. [Talks](https://duluca.github.io/#talks)
 6. [Training](https://duluca.github.io/#training)
 7. [Certifications](https://duluca.github.io/#certifications)
+</details>
