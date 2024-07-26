@@ -17,8 +17,8 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@expertlysimple) 
 -->
 
-- 🔭 I’m working on publishing the 3rd Edition of [Angular for Enterprise Applications](https://angularforenterprise.com)
-- 🌱 I’m experimenting with generative AI (GenAI)
+- 🔭 I'm leading the Innovation Team at [Excella](excella.com)
+- 🌱 I’ve published the 3rd Edition of [Angular for Enterprise Applications](https://angularforenterprise.com)
 - 💬 Ask me about new tech, Agile engineering, DevEx, cloud, careers in IT, leadership
 - 📫 How to reach me: DM me on [X](https://twitter.com/messages/28426207-3805104374?recipient_id=3805104374&text=Hi%23from%23GitHub) or [LinkedIn](https://www.linkedin.com/in/duluca/)
 - 👯 Consider submitting a PR for one of my repos below
