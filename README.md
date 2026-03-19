@@ -1,11 +1,11 @@
 # Hi 👋 I'm Doguhan. [🗣️](https://app2.nameshouts.com/names/public/my-recording/pronounce-doguhan-uluca-954)
 
 <!-- SHIELDS -->
-[![X (formerly Twitter)](https://img.shields.io/badge/@duluca-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=duluca)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duluca/)
 [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~duluca)
 [![Docker Hub](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/duluca/)
 [![Slides](https://img.shields.io/badge/slides-%23E4637C.svg?&style=for-the-badge&logo=slides&logoColor=white)](https://slides.com/doguhanuluca)
+[![X (formerly Twitter)](https://img.shields.io/badge/@duluca-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=duluca)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=duluca) -->
 
@@ -17,10 +17,10 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@expertlysimple) 
 -->
 
-- 🔭 I'm leading the Innovation Team at [Excella](excella.com) and rolling out AI Engineering.
+- 🔭 I'm leading the Commercial Lending paltform at [Capital One](capitalone.com)
 - 🌱 I’ve published the 3rd Edition of [Angular for Enterprise Applications](https://angularforenterprise.com)
 - 💬 Ask me about new tech, Agile engineering, DevEx, cloud, careers in IT, leadership
-- 📫 How to reach me: DM me on [X](https://twitter.com/messages/28426207-3805104374?recipient_id=3805104374&text=Hi%23from%23GitHub) or [LinkedIn](https://www.linkedin.com/in/duluca/)
+- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/duluca/)
 - 👯 Consider submitting a PR for one of my repos below
 
 <details>
